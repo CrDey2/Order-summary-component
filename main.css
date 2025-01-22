@@ -93,6 +93,7 @@ body {
 .c_c-2 a:hover {
     opacity: 0.5;
     transition: 500ms ease;
+    text-decoration: none;
 }
 
 button {
